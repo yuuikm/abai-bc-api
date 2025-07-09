@@ -159,26 +159,26 @@
     {
       "id": "102",
       "categoryId": "f1",
-      "name": "Туалет №1 1 этаж",
-      "desc": "Туалет №1 1 этаж"
+      "name": "URBO COFFEE",
+      "desc": "URBO COFFEE"
     },
     {
       "id": "103",
       "categoryId": "f1",
-      "name": "Арендатор 103",
-      "desc": "Арендатор 103"
+      "name": "ДҮЙСЕНБАЕВ ИП",
+      "desc": "ДҮЙСЕНБАЕВ ИП"
     },
     {
       "id": "104",
       "categoryId": "f1",
-      "name": "Арендатор 104",
-      "desc": "Арендатор 104"
+      "name": "ORDABEKOVA ZH ИП",
+      "desc": "ORDABEKOVA ZH ИП"
     },
     {
       "id": "105",
       "categoryId": "f1",
-      "name": "Арендатор 105",
-      "desc": "Арендатор 105"
+      "name": "Аманат ИП",
+      "desc": "Аманат ИП"
     },
     {
       "id": "106",
@@ -189,20 +189,20 @@
     {
       "id": "107",
       "categoryId": "f1",
-      "name": "Арендатор 107",
-      "desc": "Арендатор 107"
+      "name": "Аманат ИП",
+      "desc": "Аманат ИП"
     },
     {
       "id": "108",
       "categoryId": "f1",
-      "name": "Арендатор 108",
-      "desc": "Арендатор 108"
+      "name": "Аманат ИП",
+      "desc": "Аманат ИП"
     },
     {
       "id": "109",
       "categoryId": "f1",
-      "name": "Арендатор 109",
-      "desc": "Арендатор 109"
+      "name": "Аманат ИП",
+      "desc": "Аманат ИП"
     },
     {
       "id": "110",
@@ -213,8 +213,8 @@
     {
       "id": "111",
       "categoryId": "f1",
-      "name": "Арендатор 111",
-      "desc": "Арендатор 111"
+      "name": "Алмуханова Анара Акылбековна",
+      "desc": "Алмуханова Анара Акылбековна"
     },
     {
       "id": "112",
@@ -237,8 +237,8 @@
     {
       "id": "115",
       "categoryId": "f1",
-      "name": "Арендатор 115",
-      "desc": "Арендатор 115"
+      "name": "PROFI 8 ТОО",
+      "desc": "PROFI 8 ТОО"
     },
     {
       "id": "116",
@@ -249,75 +249,249 @@
     {
       "id": "117",
       "categoryId": "f1",
-      "name": "Арендатор 117",
-      "desc": "Арендатор 117"
+      "name": "МЕЖДУНАРОДНАЯ ПРОФЕССИОНАЛЬНАЯ ШАХМАТНАЯ ШКОЛА ИП",
+      "desc": "МЕЖДУНАРОДНАЯ ПРОФЕССИОНАЛЬНАЯ ШАХМАТНАЯ ШКОЛА ИП"
     },
     {
       "id": "118",
       "categoryId": "f1",
-      "name": "Арендатор 118",
-      "desc": "Арендатор 118"
+      "name": "MUST VISIT ТОО",
+      "desc": "MUST VISIT ТОО"
     },
     {
       "id": "119",
       "categoryId": "f1",
-      "name": "Арендатор 119",
-      "desc": "Арендатор 119"
+      "name": "Правильная Бухгалтерия ТОО",
+      "desc": "Правильная Бухгалтерия ТОО"
     },
     {
       "id": "120",
       "categoryId": "f1",
-      "name": "Арендатор 120",
-      "desc": "Арендатор 120"
+      "name": "Freedom Soft ТОО",
+      "desc": "Freedom Soft ТОО"
     },
     {
       "id": "121",
       "categoryId": "f1",
-      "name": "Арендатор 121",
-      "desc": "Арендатор 121"
+      "name": "Правильная Бухгалтерия ТОО",
+      "desc": "Правильная Бухгалтерия ТОО"
     },
     {
       "id": "123",
       "categoryId": "f1",
-      "name": "Арендатор 123",
-      "desc": "Арендатор 123"
+      "name": "RASCHET.KZ ИП",
+      "desc": "RASCHET.KZ ИП"
     },
     {
       "id": "124",
       "categoryId": "f1",
-      "name": "Арендатор 124",
-      "desc": "Арендатор 124"
+      "name": "Freedom Soft ТОО",
+      "desc": "Freedom Soft ТОО"
     },
     {
       "id": "125",
       "categoryId": "f1",
-      "name": "Арендатор 125",
-      "desc": "Арендатор 125"
+      "name": "Камбар ИП",
+      "desc": "Камбар ИП"
     },
     {
       "id": "126",
       "categoryId": "f1",
-      "name": "Арендатор 126",
-      "desc": "Арендатор 126"
+      "name": "Freedom Soft ТОО",
+      "desc": "Freedom Soft ТОО"
     },
     {
       "id": "127",
       "categoryId": "f1",
-      "name": "Арендатор 127",
-      "desc": "Арендатор 127"
+      "name": "БИЗА ГОУ ТОО",
+      "desc": "БИЗА ГОУ ТОО"
     },
     {
       "id": "128",
       "categoryId": "f1",
-      "name": "Арендатор 128",
-      "desc": "Арендатор 128"
+      "name": "NCRM Group ТОО",
+      "desc": "NCRM Group ТОО"
     },
     {
       "id": "130",
       "categoryId": "f1",
-      "name": "Арендатор 130",
-      "desc": "Арендатор 130"
-    }
+      "name": "ALISHA ИП",
+      "desc": "ALISHA ИП"
+    },
+    {
+      "id": "201",
+      "categoryId": "f2",
+      "name": "ALISHA ИП",
+      "desc": "ALISHA ИП"
+    },
+    {
+      "id": "202",
+      "categoryId": "f2",
+      "name": "БУКЕНОВА ИП",
+      "desc": "БУКЕНОВА ИП"
+    },
+    {
+      "id": "204",
+      "categoryId": "f2",
+      "name": "КРЕДО ИП",
+      "desc": "КРЕДО ИП"
+    },
+    {
+      "id": "210",
+      "categoryId": "f2",
+      "name": "Figura IT (Фигура Айти) ТОО",
+      "desc": "Figura IT (Фигура Айти) ТОО"
+    },
+    {
+      "id": "212",
+      "categoryId": "f2",
+      "name": "Figura IT (Фигура Айти) ТОО",
+      "desc": "Figura IT (Фигура Айти) ТОО"
+    },
+    {
+      "id": "214",
+      "categoryId": "f2",
+      "name": "Хайперван ТОО",
+      "desc": "Хайперван ТОО"
+    },
+    {
+      "id": "215",
+      "categoryId": "f2",
+      "name": "ЭКСПРЕСС ЛАЙН ТОО",
+      "desc": "ЭКСПРЕСС ЛАЙН ТОО"
+    },
+    {
+      "id": "216",
+      "categoryId": "f2",
+      "name": "BATYR ИП",
+      "desc": "BATYR ИП"
+    },
+    {
+      "id": "218",
+      "categoryId": "f2",
+      "name": "BATYR ИП",
+      "desc": "BATYR ИП"
+    },
+    {
+      "id": "217",
+      "categoryId": "f2",
+      "name": "ЭКСПРЕСС ЛАЙН ТОО",
+      "desc": "ЭКСПРЕСС ЛАЙН ТОО"
+    },
+    {
+      "id": "219",
+      "categoryId": "f2",
+      "name": "ЭКСПРЕСС ЛАЙН ТОО",
+      "desc": "ЭКСПРЕСС ЛАЙН ТОО"
+    },
+    {
+      "id": "220",
+      "categoryId": "f2",
+      "name": "AG INCOME ТОО",
+      "desc": "AG INCOME ТОО"
+    },
+    {
+      "id": "221",
+      "categoryId": "f2",
+      "name": "BATYR ИП",
+      "desc": "BATYR ИП"
+    },
+    {
+      "id": "223",
+      "categoryId": "f2",
+      "name": "UMMED ТОО",
+      "desc": "UMMED ТОО"
+    },
+    {
+      "id": "305",
+      "categoryId": "f3",
+      "name": "Fruiteamood ИП",
+      "desc": "Fruiteamood ИП"
+    },
+    {
+      "id": "308",
+      "categoryId": "f3",
+      "name": "BATYR ИП",
+      "desc": "BATYR ИП"
+    },
+    {
+      "id": "309",
+      "categoryId": "f3",
+      "name": "Fruiteamood ИП",
+      "desc": "Fruiteamood ИП"
+    },
+    {
+      "id": "314",
+      "categoryId": "f3",
+      "name": "Кабдулины ИП",
+      "desc": "Кабдулины ИП"
+    },
+    {
+      "id": "401",
+      "categoryId": "f4",
+      "name": "Cropi Max ТОО",
+      "desc": "Cropi Max ТОО"
+    },
+    {
+      "id": "402",
+      "categoryId": "f4",
+      "name": "AL-Shifa ИП",
+      "desc": "AL-Shifa ИП"
+    },
+    {
+      "id": "404",
+      "categoryId": "f4",
+      "name": "AL-Shifa ИП",
+      "desc": "AL-Shifa ИП"
+    },
+    {
+      "id": "412",
+      "categoryId": "f4",
+      "name": "Cropi Max ТОО",
+      "desc": "Cropi Max ТОО"
+    },
+    {
+      "id": "413",
+      "categoryId": "f4",
+      "name": "Cropi Max ТОО",
+      "desc": "Cropi Max ТОО"
+    },
+    {
+      "id": "507",
+      "categoryId": "f5",
+      "name": "Bolashaq ИП",
+      "desc": "Bolashaq ИП"
+    },
+    {
+      "id": "509",
+      "categoryId": "f5",
+      "name": "Bolashaq ИП",
+      "desc": "Bolashaq ИП"
+    },
+    {
+      "id": "517",
+      "categoryId": "f5",
+      "name": "Арман Арыстан ИП",
+      "desc": "Арман Арыстан ИП"
+    },
+    {
+      "id": "519",
+      "categoryId": "f5",
+      "name": "Арман Арыстан ИП",
+      "desc": "Арман Арыстан ИП"
+    },
+    {
+      "id": "523",
+      "categoryId": "f5",
+      "name": "IS Holding ТОО",
+      "desc": "IS Holding ТОО"
+    },
+    {
+      "id": "525",
+      "categoryId": "f5",
+      "name": "IS Holding ТОО",
+      "desc": "IS Holding ТОО"
+    },
   ],
   "categories": [
     {
