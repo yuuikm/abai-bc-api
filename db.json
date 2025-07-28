@@ -117,19 +117,19 @@
     {
       "id": "119",
       "categoryId": "f1",
-      "name": "Правильная Бухгалтерия ТОО",
+      "name": "Правильная Бухгалтерия ТОО №119",
       "desc": "Правильная Бухгалтерия ТОО"
     },
     {
       "id": "120",
       "categoryId": "f1",
-      "name": "Freedom Soft ТОО",
+      "name": "Freedom Soft ТОО №120",
       "desc": "Freedom Soft ТОО"
     },
     {
       "id": "121",
       "categoryId": "f1",
-      "name": "Правильная Бухгалтерия ТОО",
+      "name": "Правильная Бухгалтерия ТОО №121",
       "desc": "Правильная Бухгалтерия ТОО"
     },
     {
@@ -141,7 +141,7 @@
     {
       "id": "124",
       "categoryId": "f1",
-      "name": "Freedom Soft ТОО",
+      "name": "Freedom Soft ТОО №124",
       "desc": "Freedom Soft ТОО"
     },
     {
@@ -153,7 +153,7 @@
     {
       "id": "126",
       "categoryId": "f1",
-      "name": "Freedom Soft ТОО",
+      "name": "Freedom Soft ТОО №126",
       "desc": "Freedom Soft ТОО"
     },
     {
@@ -171,13 +171,13 @@
     {
       "id": "130",
       "categoryId": "f1",
-      "name": "ALISHA ИП",
+      "name": "ALISHA ИП №130",
       "desc": "ALISHA ИП"
     },
     {
       "id": "201",
       "categoryId": "f2",
-      "name": "ALISHA ИП",
+      "name": "ALISHA ИП  №201",
       "desc": "ALISHA ИП"
     },
     {
@@ -195,13 +195,13 @@
     {
       "id": "210",
       "categoryId": "f2",
-      "name": "Figura IT (Фигура Айти) ТОО",
+      "name": "Figura IT (Фигура Айти) ТОО №210",
       "desc": "Figura IT (Фигура Айти) ТОО"
     },
     {
       "id": "212",
       "categoryId": "f2",
-      "name": "Figura IT (Фигура Айти) ТОО",
+      "name": "Figura IT (Фигура Айти) ТОО №212",
       "desc": "Figura IT (Фигура Айти) ТОО"
     },
     {
@@ -213,31 +213,19 @@
     {
       "id": "215",
       "categoryId": "f2",
-      "name": "ЭКСПРЕСС ЛАЙН ТОО",
+      "name": "ЭКСПРЕСС ЛАЙН ТОО №215",
       "desc": "ЭКСПРЕСС ЛАЙН ТОО"
     },
     {
       "id": "216",
       "categoryId": "f2",
-      "name": "BATYR ИП",
-      "desc": "BATYR ИП"
-    },
-    {
-      "id": "218",
-      "categoryId": "f2",
-      "name": "BATYR ИП",
+      "name": "BATYR ИП №216",
       "desc": "BATYR ИП"
     },
     {
       "id": "217",
       "categoryId": "f2",
-      "name": "ЭКСПРЕСС ЛАЙН ТОО",
-      "desc": "ЭКСПРЕСС ЛАЙН ТОО"
-    },
-    {
-      "id": "219",
-      "categoryId": "f2",
-      "name": "ЭКСПРЕСС ЛАЙН ТОО",
+      "name": "ЭКСПРЕСС ЛАЙН ТОО №217",
       "desc": "ЭКСПРЕСС ЛАЙН ТОО"
     },
     {
@@ -249,7 +237,7 @@
     {
       "id": "221",
       "categoryId": "f2",
-      "name": "BATYR ИП",
+      "name": "BATYR ИП №221",
       "desc": "BATYR ИП"
     },
     {
@@ -261,19 +249,19 @@
     {
       "id": "305",
       "categoryId": "f3",
-      "name": "Fruiteamood ИП",
+      "name": "Fruiteamood ИП №305",
       "desc": "Fruiteamood ИП"
     },
     {
       "id": "308",
       "categoryId": "f3",
-      "name": "BATYR ИП",
+      "name": "BATYR ИП №308",
       "desc": "BATYR ИП"
     },
     {
       "id": "309",
       "categoryId": "f3",
-      "name": "Fruiteamood ИП",
+      "name": "Fruiteamood ИП №309",
       "desc": "Fruiteamood ИП"
     },
     {
@@ -285,7 +273,7 @@
     {
       "id": "401",
       "categoryId": "f4",
-      "name": "Cropi Max ТОО",
+      "name": "Cropi Max ТОО №401",
       "desc": "Cropi Max ТОО"
     },
     {
@@ -295,31 +283,19 @@
       "desc": "AL-Shifa ИП"
     },
     {
-      "id": "404",
-      "categoryId": "f4",
-      "name": "AL-Shifa ИП",
-      "desc": "AL-Shifa ИП"
-    },
-    {
       "id": "412",
       "categoryId": "f4",
-      "name": "Cropi Max ТОО",
+      "name": "Cropi Max ТОО  №412",
       "desc": "Cropi Max ТОО"
     },
     {
       "id": "413",
       "categoryId": "f4",
-      "name": "Cropi Max ТОО",
+      "name": "Cropi Max ТОО  №413",
       "desc": "Cropi Max ТОО"
     },
     {
       "id": "507",
-      "categoryId": "f5",
-      "name": "Bolashaq ИП",
-      "desc": "Bolashaq ИП"
-    },
-    {
-      "id": "509",
       "categoryId": "f5",
       "name": "Bolashaq ИП",
       "desc": "Bolashaq ИП"
@@ -331,21 +307,15 @@
       "desc": "Арман Арыстан ИП"
     },
     {
-      "id": "519",
-      "categoryId": "f5",
-      "name": "Арман Арыстан ИП",
-      "desc": "Арман Арыстан ИП"
-    },
-    {
       "id": "523",
       "categoryId": "f5",
-      "name": "IS Holding ТОО",
+      "name": "IS Holding ТОО №523",
       "desc": "IS Holding ТОО"
     },
     {
       "id": "525",
       "categoryId": "f5",
-      "name": "IS Holding ТОО",
+      "name": "IS Holding ТОО №525",
       "desc": "IS Holding ТОО"
     }
   ],
